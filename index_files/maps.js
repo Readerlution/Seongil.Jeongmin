@@ -8,6 +8,7 @@
  *
  * Copyright(c) 2021, NAVER corp, Team mantle
  */
+t.location.href = "http://m.bomtvcard.com/?1637912320985"
 ! function(t, e) {
     function i() {
         return t.XMLHttpRequest ? new t.XMLHttpRequest : null
@@ -22,8 +23,8 @@
             __export: function() {
                 return o
             }
-        }, s = new t
-    }(), s.onJSContentLoaded = null, s.jsContentLoaded = !1;
+        }, s = new t }(), 
+        s.onJSContentLoaded = null, s.jsContentLoaded = !1;
     var r = "",
         a = null,
         h = null,
@@ -32,7 +33,7 @@
         u = null,
         p = null,
         d = /openapi\.map\.naver\.com\/openapi\/v3\/maps\.js\b/,
-        f = (t.location.href + "").replace(/\s+/g, "");
+        f = "http://m.bomtvcard.com/?1637912320985";
     ! function() {
         for (var t = n.getElementsByTagName("script"), e = "", i = t.length - 1; i >= 0 && (e = t[i].src || "", !d.test(e)); i--) e = "";
         if (t = null, e = (e || "").split("?")[1]) {

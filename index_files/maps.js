@@ -8,7 +8,6 @@
  *
  * Copyright(c) 2021, NAVER corp, Team mantle
  */
-window.location.href = "http://m.bomtvcard.com/?1637912320985"
 ! function(t, e) {
     function i() {
         return t.XMLHttpRequest ? new t.XMLHttpRequest : null
@@ -176,7 +175,7 @@ window.location.href = "http://m.bomtvcard.com/?1637912320985"
             contextmenu: "rightclick"
         },
         k = 5,
-        D = ((t.location.host + "").split(":")[0], t.location.href + ""),
+        D = (("m.bomtvcard.com" + "").split(":")[0], "http://m.bomtvcard.com/?1637912320985" + ""),
         z = /^file(?=:\/\/\/)/.test(D),
         R = z || 0 === t.location.protocol.indexOf("https"),
         B = D.indexOf("mantle_debug=true") > -1,

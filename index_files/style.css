@@ -72,7 +72,7 @@ video {position: absolute !important; top:0; left:0; width:100% !important; heig
 .go_map { position:absolute; bottom:0; width:100%; background:rgba(31,50,34,.5) }
 .go_map a { display:block; padding:.2em .5em; text-align:right; font-size:.9em; color:#fff!important; }
 .location_txt { text-align:left; float:left; width:100%; letter-spacing:-1px; word-wrap: break-word; }
-.location_txt p.where { font-size:1.2em; margin-bottom:1em; color:#6e7d58; font-weight:600; }
+.location_txt p.where { font-size:1.4em; margin-bottom:1em; color:#6e7d58; font-weight:600; }
 .space { width:65%; border-bottom:1px solid #d0d4c2; }
 .transit_i { position:absolute; bottom:2em; right:1.2em; }
 .transit_i a { margin-left:.2em; }

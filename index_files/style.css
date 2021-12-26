@@ -1,6 +1,6 @@
 /*common*/
 body { font-family: 'Open Sans','Helvetica Neue', Arial, sans-serif; }
-.wrap > h3 { font-size:1.4em; font-family: 'ymg-130'; color:#82875a; font-weight:normal; }
+.wrap > h3 { font-size:1.4em; font-family: 'ymg-130'; color:#82875a; font-weight:700; }
 .wrap > p { font-size:.8rem; text-transform:uppercase; letter-spacing:5px; color:#a4a9a4; font-family: 'TrajanPro-Regular'; margin-bottom:2em; }
 .out_ft { width:100%; height:2em; background:#fffef7; }
 
@@ -84,3 +84,5 @@ video {position: absolute !important; top:0; left:0; width:100% !important; heig
 .f_sns span { position:absolute; bottom:.2em; right:0; font-size:.8em; color:#fffef7; text-transform:uppercase; }
 .f_sns ul li { display:inline-block; width:4em; }
 .f_sns ul li a img { width:100%; }
+
+/*bank*/
